@@ -1,4 +1,4 @@
-**Hello!, I am Reginald 👋🏾**
+**Hello!, I am [Reginald](https://itsrekas.github.io/Portfolio/) 👋🏾**
 
 <img src="./Intro.png" alt="My Introductory Picture">
 
